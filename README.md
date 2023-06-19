@@ -22,7 +22,6 @@ I am an experienced data analytics professional with a strong passion for using 
 ### Connect with Me
 
 [<img align="middle" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/ali-h-shakir/ali-h-shakir/blob/main/LI-In-Bug.png" />](https://www.linkedin.com/in/alihshakir/)
-
 <br />
 
 ---
