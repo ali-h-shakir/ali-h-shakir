@@ -14,16 +14,15 @@ I am an experienced data analytics professional with a strong passion for using 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> 
-<br />
+<img align="middle" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/ali-h-shakir/ali-h-shakir/blob/main/AYX_BIG.png" /> 
 <br />
 
 ---
 
 ### Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/alihshakir/)
+[<img align="middle" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/ali-h-shakir/ali-h-shakir/blob/main/LI-In-Bug.png" />](https://www.linkedin.com/in/alihshakir/)
 
-<br />
 <br />
 
 ---
