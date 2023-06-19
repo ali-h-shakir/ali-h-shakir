@@ -14,6 +14,9 @@ I am an experienced data analytics professional with a strong passion for using 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> 
+<img align="left" alt="Java" width="40px" height="40px" style="padding-right:10px;" src="https://github.com/ali-h-shakir/ali-h-shakir/blob/main/Logos/Knime.png" />
+<img align="left" alt="Java" width="80px" height="30px" style="padding-right:10px;" src="https://github.com/ali-h-shakir/ali-h-shakir/blob/main/Logos/Power_BI_(4).png" />
+<img align="left" alt="Java" width="100px" height="20px" style="padding-right:10px;" src="https://github.com/ali-h-shakir/ali-h-shakir/blob/main/Logos/Tableau_Logo.png" />
 <img align="middle" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/ali-h-shakir/ali-h-shakir/blob/main/Logos/AYX_BIG.png" /> 
 <br />
 
