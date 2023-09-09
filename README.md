@@ -30,8 +30,10 @@ I am an experienced data analytics professional with a passion for using data mo
 ---
 
 
+<!--
+This is a comment. The method below is how to add a link to the readme page to a repository.
 [Test Repo](https://github.com/ali-h-shakir/Test_Repo.git)
-
+-->
 
 <!--
 **ali-h-shakir/ali-h-shakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
