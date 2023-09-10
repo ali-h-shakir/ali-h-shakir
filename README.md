@@ -34,7 +34,7 @@ I am an experienced data analytics professional, who is driven by curiosity, and
 
 ### SQL Projects 
 
-1. [Analysis of Medical Doctors by Country and Year](https://github.com/ali-h-shakir/SQL_Projects/blob/main/Analysis%20of%20Medical%20Doctors/Medical_Doctors_Data_Analysis.sql)) : In this analysis, I have utilized mutliple SQL aspects such as Virtual Tables, Aggregation Functions, Windows Functions etc. to answer some interesting questions about the data such as top countries with number of doctors, percent of specialists vs GPs etc. The dataset 'doctors_data.csv' includes information about the total number of doctors, number of GPs, number of specialists and number of doctors per 10K population for multiple countries across a number of years. 
+1. [Analysis of Medical Doctors by Country and Year](https://github.com/ali-h-shakir/SQL_Projects/blob/main/Analysis%20of%20Medical%20Doctors/Medical_Doctors_Data_Analysis.sql) : In this analysis, I have utilized mutliple SQL aspects such as Virtual Tables, Aggregation Functions, Windows Functions etc. to answer some interesting questions about the data such as top countries with number of doctors, percent of specialists vs GPs etc. The dataset 'doctors_data.csv' includes information about the total number of doctors, number of GPs, number of specialists and number of doctors per 10K population for multiple countries across a number of years. 
 
 ---
 
