@@ -29,13 +29,23 @@ I am an experienced data analytics professional, who is driven by curiosity, and
 
 ---
 
+#### Below are some projects I've analyzed using SQL, along with visualizations in Tableau
+
+
 ### SQL Projects
 
 Files at the links below outline code for analysis I have conducted using SQL on certain datasets. 
 
 1. [Analysis of Medical Doctors by Country and Year](https://github.com/ali-h-shakir/SQL_Projects/blob/main/Medical_Doctors_Data_Analysis.sql) : In this analysis, I have utilized mutliple SQL aspects such as Virtual Tables, Aggregation Functions, Windows Functions etc. to answer some interesting questions about the data such as top countries with number of doctors, percent of specialists vs GPs etc. The dataset 'doctors_data.csv' includes information about the total number of doctors, number of GPs, number of specialists and number of doctors per 10K population for multiple countries across a number of years. 
 
+---
 
+### Tableau
+
+- [Click here to view my Tableau public profile](https://public.tableau.com/app/profile/ali.shakir)
+
+- Visualizations
+    - [Analysis of Medical Doctors by Country and Year](https://public.tableau.com/app/profile/ali.shakir/viz/AnalysisofMedicalDoctorsbyCountryOverTime/Dashboard1)
 
 
 <!--
