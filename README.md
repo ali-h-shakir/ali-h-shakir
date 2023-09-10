@@ -32,18 +32,23 @@ I am an experienced data analytics professional, who is driven by curiosity, and
 #### Below are some projects I've analyzed using SQL, along with visualizations in Tableau
 
 
-### SQL Projects 
+### SQL 
 
 1. [Analysis of Medical Doctors by Country and Year](https://github.com/ali-h-shakir/SQL_Projects/blob/main/Analysis%20of%20Medical%20Doctors/Medical_Doctors_Data_Analysis.sql) : In this analysis, I have utilized mutliple SQL aspects such as Virtual Tables, Aggregation Functions, Windows Functions etc. to answer some interesting questions about the data such as top countries with number of doctors, percent of specialists vs GPs etc. The dataset 'doctors_data.csv' includes information about the total number of doctors, number of GPs, number of specialists and number of doctors per 10K population for multiple countries across a number of years. 
 
----
+### Power BI
+
+1. [Analysis of Green Taxi Cabs in NY Boroughs](https://github.com/ali-h-shakir/PowerBI_Projects/blob/main/Analysis%20of%20Green%20Taxi%20Cabs%20in%20NY%20Boroughs/Analysis%20of%20Green%20Taxi%20Cabs%20in%20NY%20Boroughs.pdf): This dashboard provides insights into multiple metrics associated with use of Green Taxi Cabs across NY Boroughs. Users can utilize filters to explore metrics such as Number of Rides picked up, Number of passengers, Avg Fare/Tip/Toll and payment preferences. Data Model illustrating relationships employed between dimension and fact tables is also included in the folder.
+
+![Alt Text](https://github.com/ali-h-shakir/PowerBI_Projects/blob/main/Analysis%20of%20Green%20Taxi%20Cabs%20in%20NY%20Boroughs/Analysis%20of%20Green%20Taxi%20Cabs%20in%20NY%20Boroughs%20-%20Dashboard.jpg)
+
 
 ### Tableau
 
-- [Click here to view my Tableau public profile](https://public.tableau.com/app/profile/ali.shakir)
+[Click here to view my Tableau public profile](https://public.tableau.com/app/profile/ali.shakir)
 
-- Visualizations
-    - [Analysis of Medical Doctors by Country over Time](https://public.tableau.com/app/profile/ali.shakir/viz/AnalysisofMedicalDoctorsbyCountryOverTime/Dashboard1)
+Visualizations
+1. [Analysis of Medical Doctors by Country over Time](https://public.tableau.com/app/profile/ali.shakir/viz/AnalysisofMedicalDoctorsbyCountryOverTime/Dashboard1)
 
       ![Alt Text](https://github.com/ali-h-shakir/ali-h-shakir/blob/main/Logos/Tableau%20Visualization%20-%20Medical%20Doctors%201.jpg)
 
