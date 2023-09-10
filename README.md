@@ -47,6 +47,8 @@ Files at the links below outline code for analysis I have conducted using SQL on
 - Visualizations
     - [Analysis of Medical Doctors by Country and Year](https://public.tableau.com/app/profile/ali.shakir/viz/AnalysisofMedicalDoctorsbyCountryOverTime/Dashboard1)
 
+      ![Alt Text]
+
 
 <!--
 This is a comment. The method below is how to add a link to the readme page to a repository.
