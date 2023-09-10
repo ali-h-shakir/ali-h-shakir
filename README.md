@@ -45,7 +45,10 @@ I am an experienced data analytics professional, who is driven by curiosity, and
 
 ### R 
 
-1. [Analysis of Bike-Share Company](https://github.com/ali-h-shakir/Projects/blob/main/Bike-Share%20Company/Analysis%20of%20Bike-Share%20Company.ipynb) : Completed this analysis in R as part of capstone project for Google Data Analytics Certificate. In this analysis, I have utilized R for data wrangling (renaming columns, converting column data types, consolidating data etc.), data cleaning (filtering out irrelevant data, parsing date-time etc.) data analyses (calculating ride length statistics, comparing ride-times by weekday, calculating average ride time, analyzing ridership) and creating visual graphics. 
+1. [Analysis of Bike-Share Company](https://github.com/ali-h-shakir/Projects/blob/main/Bike-Share%20Company/Analysis%20of%20Bike-Share%20Company.ipynb) : Completed this analysis in R as part of capstone project for Google Data Analytics Certificate. In this analysis, I have utilized R for data wrangling (renaming columns, converting column data types, consolidating data etc.), data cleaning (filtering out irrelevant data, parsing date-time etc.) data analyses (calculating ride length statistics, comparing ride-times by weekday, calculating average ride time, analyzing ridership) and creating visual graphics.
+   
+2. [Analysis of Group of Friends](https://github.com/ali-h-shakir/Projects/blob/main/Analysis%20of%20Friends%20Group/Analysis%20of%20Group%20of%20Friends.ipynb) : This is a basic exploratory data analysis conducted a dataset about a group of friends. Includes calculation of basic summary statistics and some graphs.
+
 
 
 
