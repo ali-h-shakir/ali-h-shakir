@@ -43,10 +43,11 @@ I am an experienced data analytics professional, who is driven by curiosity, and
 - [Click here to view my Tableau public profile](https://public.tableau.com/app/profile/ali.shakir)
 
 - Visualizations
-    - [Analysis of Medical Doctors by Country and Year](https://public.tableau.com/app/profile/ali.shakir/viz/AnalysisofMedicalDoctorsbyCountryOverTime/Dashboard1)
+    - [Analysis of Medical Doctors by Country over Time](https://public.tableau.com/app/profile/ali.shakir/viz/AnalysisofMedicalDoctorsbyCountryOverTime/Dashboard1)
 
       ![Alt Text](https://github.com/ali-h-shakir/ali-h-shakir/blob/main/Logos/Tableau%20Visualization%20-%20Medical%20Doctors%201.jpg)
 
+---
 
 <!--
 This is a comment. The method below is how to add a link to the readme page to a repository.
