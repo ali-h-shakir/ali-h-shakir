@@ -22,14 +22,14 @@ I am an experienced data analytics professional, who is driven by curiosity, and
 
 ---
 
-### Connect with Me
+### Visit my LinkedIn profile to view details about my career journey and connect with me
 
 [<img align="middle" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/ali-h-shakir/ali-h-shakir/blob/main/Logos/LI-In-Bug.png" />](https://www.linkedin.com/in/alihshakir/)
 <br />
 
 ---
 
-#### Below are some projects I've analyzed using SQL, along with visualizations in Tableau
+### Below are some projects I've analyzed using SQL, along with visualizations in Power BI & Tableau
 
 
 ### SQL 
