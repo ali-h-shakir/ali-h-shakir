@@ -43,6 +43,12 @@ I am an experienced data analytics professional, who is driven by curiosity, and
 ![Alt Text](https://github.com/ali-h-shakir/PowerBI_Projects/blob/main/Analysis%20of%20Green%20Taxi%20Cabs%20in%20NY%20Boroughs/Analysis%20of%20Green%20Taxi%20Cabs%20in%20NY%20Boroughs%20-%20Dashboard.jpg)
 
 
+### R 
+
+1. [Analysis of Bike-Share Company](https://github.com/ali-h-shakir/Projects/blob/main/Bike-Share%20Company/Analysis%20of%20Bike-Share%20Company.ipynb) : Completed this analysis in R as part of capstone project for Google Data Analytics Certificate. In this analysis, I have utilized R for data wrangling (renaming columns, converting column data types, consolidating data etc.), data cleaning (filtering out irrelevant data, parsing date-time etc.) data analyses (calculating ride length statistics, comparing ride-times by weekday, calculating average ride time, analyzing ridership) and creating visual graphics. 
+
+
+
 ### Tableau
 
 [Click here to view my Tableau public profile](https://public.tableau.com/app/profile/ali.shakir)
